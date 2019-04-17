@@ -1,11 +1,11 @@
-###Mac 上使用pyenv 安装 python 3.5.0
+### Mac 上使用pyenv 安装 python 3.5.0
 
 1. 问题
 
     `pyenv install 3.5.0`
     
     如果出现以下错误
-    ![]()        
+    ![](https://github.com/yabolu/Mac-pyenv-install-python3.5/blob/master/error01.png)        
     
     ```
     那好, 继续去搜索解决方法, 可能是找不到openssl的问题, 那么指定路径:
@@ -21,7 +21,7 @@
     然后出新新的问题:
     ```
     
-    ![]()
+    ![](https://github.com/yabolu/Mac-pyenv-install-python3.5/blob/master/error02.png)
 
     
     ```
